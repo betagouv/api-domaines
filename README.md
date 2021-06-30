@@ -2,6 +2,8 @@
 
 Un api pour servir les données du référentiel des domaines des administrations.
 
+Voir le data des domaines : https://github.com/betagouv/domaines-data
+
 ## Installation
  - set up your python virtual env
  - install dependencies :
